@@ -21,7 +21,7 @@
     <orderEntry type="library" scope="PROVIDED" name="archive-zip (v0.12.0, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="arel (v9.0.0, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v9.6.1, RVM: ruby-2.4.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.12, RVM: ruby-2.4.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.13, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootsnap (v1.4.4, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bootstrap-sass (v3.4.1, RVM: ruby-2.4.3) [gem]" level="application" />
@@ -84,7 +84,7 @@
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.3, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.7.4, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-listen (v4.0.0, RVM: ruby-2.4.3) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.7, RVM: ruby-2.4.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.1.0, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sassc (v2.0.1, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.3, RVM: ruby-2.4.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="shellany (v0.0.1, RVM: ruby-2.4.3) [gem]" level="application" />

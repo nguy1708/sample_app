@@ -27,6 +27,7 @@
   <component name="FavoritesManager">
     <favorites_list name="sample_app" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -58,83 +59,26 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> sign-up
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/config/database.yml" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
-        <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
-        <option value="$PROJECT_DIR$/test/test_helper.rb" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Guardfile" />
-        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-        <option value="$PROJECT_DIR$/example_user.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_shim.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_rails_default.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/custom.scss" />
-        <option value="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-        <option value="$PROJECT_DIR$/test/controllers/users_controller_test.rb" />
-        <option value="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
-        <option value="$PROJECT_DIR$/test/integration/site_layout_test.rb" />
-        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/db/migrate/20190817235233_add_index_to_users_email.rb" />
-        <option value="$PROJECT_DIR$/test/fixtures/users.yml" />
-        <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/test/models/user_test.rb" />
-        <option value="$PROJECT_DIR$/app/models/user.rb" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1Pi63dh1YWzxNHPiZXtjK3TD5tz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,7 +173,15 @@
       <workItem from="1563997495331" duration="32440000" />
       <workItem from="1565384326348" duration="20469000" />
       <workItem from="1565469695826" duration="3584000" />
+<<<<<<< HEAD
       <workItem from="1565674510182" duration="15433000" />
+=======
+      <workItem from="1565674510182" duration="12873000" />
+      <workItem from="1566344378249" duration="22000" />
+      <workItem from="1566344423628" duration="5399000" />
+      <workItem from="1567603513118" duration="5000" />
+      <workItem from="1568409921137" duration="11616000" />
+>>>>>>> sign-up
     </task>
     <servers />
   </component>
@@ -241,9 +193,12 @@
       <configuration name="test_email_should_not_be_too_long: sample_app" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="78320000" />
   </component>
+=======
+>>>>>>> sign-up
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -253,6 +208,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
@@ -277,12 +233,27 @@
       <window_info anchor="right" id="Database" order="3" weight="0.3297568" />
     </layout>
   </component>
+=======
+>>>>>>> sign-up
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sample_app@test_should_be_valid__sample_app.rcov" NAME="test_should_be_valid: sample_app Coverage Results" MODIFIED="1566093420871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
     <SUITE FILE_PATH="coverage/sample_app@test_email_should_not_be_too_long__sample_app.rcov" NAME="test_email_should_not_be_too_long: sample_app Coverage Results" MODIFIED="1566093485708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
+<<<<<<< HEAD
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config/database.yml">
@@ -536,6 +507,9 @@
         </state>
       </provider>
     </entry>
+=======
+    <SUITE FILE_PATH="coverage/sample_app@test_should_be_valid__sample_app.rcov" NAME="test_should_be_valid: sample_app Coverage Results" MODIFIED="1566093420871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="sample_app" />
+>>>>>>> sign-up
   </component>
   <component name="masterDetails">
     <states>
