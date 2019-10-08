@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f50d2067-3b10-422e-aaba-01490c752574" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/puma.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +146,11 @@
       <workItem from="1566344423628" duration="5399000" />
       <workItem from="1567603513118" duration="5000" />
       <workItem from="1568409921137" duration="11616000" />
-      <workItem from="1568858610799" duration="585000" />
+      <workItem from="1568858610799" duration="834000" />
+      <workItem from="1568910142920" duration="13420000" />
+      <workItem from="1569875144961" duration="496000" />
+      <workItem from="1570051358198" duration="380000" />
+      <workItem from="1570244863660" duration="377000" />
     </task>
     <servers />
   </component>
